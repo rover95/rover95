@@ -8,15 +8,6 @@
 
 ---
 
-## 🔭 A few things I build
-
-- **morse-encrypt** — 隐藏文本加密：摩斯电码 + 零宽字符。  
-- **wxapp-timePicker** — 微信小程序的自定义时间／日期选择器，可调精度与样式。  
-- **wxapp-swiper** ／ **wxapp-form** ／ **wxapp-heatmap** — UI 交互控件 & 数据可视化／表单组件。  
-- **effect** — 各种页面特效和酷炫背景，喜欢动起来的界面设计。
-
----
-
 
 ## 📈 My GitHub Stats
 
@@ -36,6 +27,7 @@
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rover95&layout=compact&theme=dracula)    　　![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rover95&repo=morse-encrypt&theme=dracula)
+
 
 
 
