@@ -1,20 +1,4 @@
-<!--
-  🚀 Hi there, I’m **rovelast** aka **rover95**
--->
 
-# 👋 Hello, I’m **rover95** / **rovelast**
-
-> Working from home 🏡 — coding & creating stuff that makes people go "Wow!"
-
----
-
-
-## 📈 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rover95&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rover95&show_icons=true&theme=tokyonight)
-
----
 
 
 
@@ -27,6 +11,7 @@
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rover95&layout=compact&theme=dracula)    　　![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rover95&repo=morse-encrypt&theme=dracula)
+
 
 
 
